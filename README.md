@@ -2,6 +2,8 @@
 
 I've been working professionally in software and technology, most especially in cloud and infosec, since 2004.
 
+[![bwhaley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bwhaley&count_private=true&show_icons=true)](https://github.com/bwhaley)
+
 ### ✍️ Writing
 - Co-author of [The UNIX & Linux System Administration Handbook](https://admin.com), the de facto system administration reference book. Now in its 5th edition.
 - A few [technical blog posts](https://whaletech.co/archive/index.html). My favorites: [Encrypting ephemeral volumes on EC2](https://whaletech.co/2016/04/07/encryption-ephemeral-volumes-with-kms.html) and [A Reference VPC](https://whaletech.co/2014/10/02/reference-vpc-architecture.html)
