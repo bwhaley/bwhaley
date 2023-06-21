@@ -8,7 +8,6 @@ I've been working professionally in software and technology, most especially in 
 - Co-author of [The UNIX & Linux System Administration Handbook](https://admin.com), the de facto system administration reference book. Now in its 5th edition.
 - A few [technical blog posts](https://whaletech.co/archive/index.html). My favorites: [Encrypting ephemeral volumes on EC2](https://whaletech.co/2016/04/07/encryption-ephemeral-volumes-with-kms.html) and [A Reference VPC](https://whaletech.co/2014/10/02/reference-vpc-architecture.html)
 - My articles on [Medium](https://medium.com/@benwhaley).
-- Article in INSECURE magazine [WARNING: 11.8Mb PDF link](https://whaletech.co/assets/INSECURE-Mag-15.pdf) on the subject of enterprise software security.
 
 ### 👨‍💻 Code
 - [alterNAT](https://github.com/1debit/alternat), a high availability implementation of AWS NAT instances.
