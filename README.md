@@ -6,7 +6,7 @@ I've been working professionally in software and technology, most especially in 
 
 ### ✍️ Writing
 - Co-author of [The UNIX & Linux System Administration Handbook](https://admin.com), the de facto system administration reference book. Currently in its 5th edition.
-- A few [technical blog posts](https://whaletech.co/archive/index.html). Samples: [Encrypting ephemeral volumes on EC2](https://whaletech.co/2016/04/07/encryption-ephemeral-volumes-with-kms.html) and [A Reference VPC](https://whaletech.co/2014/10/02/reference-vpc-architecture.html)
+- A few [older technical blog posts](https://whaletech.co/archive/index.html). Samples: [Encrypting ephemeral volumes on EC2](https://whaletech.co/2016/04/07/encryption-ephemeral-volumes-with-kms.html) and [A Reference VPC](https://whaletech.co/2014/10/02/reference-vpc-architecture.html)
 - My articles on [Medium](https://medium.com/@benwhaley).
 - [My profile on StackOverflow](https://stackoverflow.com/users/2430241/ben-whaley).
 
