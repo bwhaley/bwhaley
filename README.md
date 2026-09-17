@@ -2,7 +2,7 @@
 
 I've been working professionally in software and technology, most especially in cloud and infosec, since 2004.
 
-[![bwhaley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bwhaley&count_private=true&show_icons=true)](https://github.com/bwhaley)
+[![bwhaley's GitHub stats](https://github-stats-extended.vercel.app/api?username=bwhaley)](https://github.com/bwhaley)
 
 ### ✍️ Writing
 - Co-author of [The UNIX & Linux System Administration Handbook](https://admin.com), the de facto system administration reference book. Currently in its 5th edition.
